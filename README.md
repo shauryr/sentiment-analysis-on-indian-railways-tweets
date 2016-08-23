@@ -30,7 +30,7 @@ ________ _______________________________________________________________________
 | label |	Tweet                                                                                                                                        |
 | neg	  | @RailMinIndia @sureshpprabhu  dhauli worst train.12822 coach C1 ac not wrkng. refund money .why is this coach even there when ac nt working? |
 | neg	  | @RailMinIndia confusion or misprint #whatever# but Chd to allp was worst noAC,ntClean,leaking in rain,noWater https://t.co/MLRJygEHmt        |
-| neg	  | @RailMinIndia sir I am since morning and two time I had connected the at no 011-39340000 . But they give me very bad response . 1/2          |
+| neg	  | @RailMinIndia sir I am since morning and two time I had connected the at no 011-39340000 . But they give me very bad response         |
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
