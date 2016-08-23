@@ -26,12 +26,10 @@ Clearly Indian railway needs to focus on Water facilities, Air conditioning of c
 
 Sentiment Score Analysis:
 It was interesting to see that out of approx. 2000 tweets, 1400 were negative ! Some examples just for an intuition are :
-________ ______________________________________________________________________________________________________________________________________________
-| label |	Tweet                                                                                                                                        |
-| neg	  | @RailMinIndia @sureshpprabhu  dhauli worst train.12822 coach C1 ac not wrkng. refund money .why is this coach even there when ac nt working? |
-| neg	  | @RailMinIndia confusion or misprint #whatever# but Chd to allp was worst noAC,ntClean,leaking in rain,noWater https://t.co/MLRJygEHmt        |
-| neg	  | @RailMinIndia sir I am since morning and two time I had connected the at no 011-39340000 . But they give me very bad response         |
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- @RailMinIndia @sureshpprabhu  dhauli worst train.12822 coach C1 ac not wrkng. refund money .why is this coach even there when ac nt working?
+- @RailMinIndia confusion or misprint #whatever# but Chd to allp was worst noAC,ntClean,leaking in rain,noWater https://t.co/MLRJygEHmt
+- @RailMinIndia sir I am since morning and two time I had connected the at no 011-39340000 . But they give me very bad response
 
 
 2 images have been included for further understanding : 
