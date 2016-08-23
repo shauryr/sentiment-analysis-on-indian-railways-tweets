@@ -1,0 +1,1340 @@
+{
+  "metadata": {
+    "count": 342,
+    "page": 1,
+    "page_size": 25,
+    "pages": 14
+  },
+  "results": [
+    {
+      "id": 1,
+      "name": "AIDSinfo",
+      "short_description": "Glosario en español de terminología sobre el VIH y el SIDA.",
+      "long_description": "<p><b><span class=\"tx\">Versión móvil de AIDSinfo</span></b></p><p><span class=\"tx\">La Biblioteca Nacional de Medicina ofrece esta aplicación para usuarios del iPhone que contiene un glosario en español y en inglés de términos relacionados con el VIH y el sida. La aplicación cuenta con definiciones de más de 850 términos médicos. Esta aplicación también puede utilizarse como una herramienta de traducción.</span></p><p> </p>",
+      "icon_url": "http://a2.mzstatic.com/us/r30/Purple2/v4/b3/db/ea/b3dbea9b-45d6-5727-d4c5-aedf2f707222/mzl.isnhrolb.175x175-75.jpg",
+      "language": "Spanish",
+      "agencies": [
+        {
+          "id": 1991,
+          "name": "National Institutes of Health (NIH)",
+          "info_url": "http://www.nih.gov/",
+          "mobile_app_count": 16,
+          "social_media_count": 105,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 401,
+          "tag_text": "education",
+          "tag_type": "category",
+          "social_media_count": 106,
+          "mobile_app_count": 84,
+          "gallery_count": 0
+        },
+        {
+          "id": 721,
+          "tag_text": "health",
+          "tag_type": "category",
+          "social_media_count": 94,
+          "mobile_app_count": 15,
+          "gallery_count": 0
+        },
+        {
+          "id": 1281,
+          "tag_text": "research",
+          "tag_type": "category",
+          "social_media_count": 159,
+          "mobile_app_count": 2,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "https://itunes.apple.com/us/app/aidsinfo-hiv-aids-glossary/id397417517?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2012-01-01T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4.5",
+          "number_of_ratings": 18
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "National Hurricane Center",
+      "short_description": "Access critical hurricane advisories.",
+      "long_description": "<p>The National Hurricane Center (NHC) is a component of the National Centers for Environmental Prediction (NCEP) located at Florida International University in Miami, Florida. The NHC mission is to save lives, mitigate property loss, and improve economic efficiency by issuing the best watches, warnings, forecasts, and analyses of hazardous tropical weather and by increasing understanding of these hazards. The NHC vision is to be America’s calm, clear, and trusted voice in the eye of the storm and, with its partners, enable communities to be safe from tropical weather threats.</p><p>The NHC mobile app allows you to access critical hurricane advisories and marine forecasts on your cell phone.</p>",
+      "icon_url": "",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 2011,
+          "name": "National Oceanic and Atmospheric Administration (NOAA)",
+          "info_url": "http://www.noaa.gov/",
+          "mobile_app_count": 31,
+          "social_media_count": 217,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 1631,
+          "tag_text": "weather",
+          "tag_type": "category",
+          "social_media_count": 104,
+          "mobile_app_count": 12,
+          "gallery_count": 0
+        },
+        {
+          "id": 1667,
+          "tag_text": "news",
+          "tag_type": "category",
+          "social_media_count": 192,
+          "mobile_app_count": 15,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://www.nhc.noaa.gov/mobile/",
+          "platform": "Mobile Web",
+          "version_number": "",
+          "publish_date": "2011-08-25T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "",
+          "number_of_ratings": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "National Ocean Service",
+      "short_description": "Find news, audio, video, Ocean Facts, and more straight to your smartphone.",
+      "long_description": "<p>A new mobile version of the National Ocean Service’s website delivers news, audio, video, Ocean Facts, and more straight to your smartphone.</p><p>The NOS mobile site is the fastest and easiest way to get NOS information when you’re on the go. Here’s what you’ll find at m.ocean.noaa.gov:</p><ul><li>Ocean Facts. Quickly browse through the five most-recent NOS ‘Ocean Facts.’ Use ‘Search’ to quickly find a fact in our database by keyword. Browse through over 160 facts by category.</li><li>News and Features. Have a couple of minutes? Browse through the latest NOS news, features, and profiles of NOS employees.</li><li>Weekly New Briefs. Have less than a minute? Check out our news briefs, updated weekly with new bite-sized items.</li><li>Podcasts. Listen to Diving Deeper and Making Waves audio podcasts on your phone while you’re out for a jog.</li><li>Social Media. View our latest videos on Youtube. Surf through our image collection on Flickr. ‘Tweet up’ with NOS on Twitter. Follow us on Facebook.</li><li>Tides and Coastal Conditions. Enter your city, state, or zip code to get quick access to tides and coastal conditions at the nearest live NOS tide station to your location.</li></ul><p>The new NOS mobile website is available for all smartphones with web browsers. Give it a try and let us know what you think!</p>",
+      "icon_url": "",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 2011,
+          "name": "National Oceanic and Atmospheric Administration (NOAA)",
+          "info_url": "http://www.noaa.gov/",
+          "mobile_app_count": 31,
+          "social_media_count": 217,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 401,
+          "tag_text": "education",
+          "tag_type": "category",
+          "social_media_count": 106,
+          "mobile_app_count": 84,
+          "gallery_count": 0
+        },
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 1631,
+          "tag_text": "weather",
+          "tag_type": "category",
+          "social_media_count": 104,
+          "mobile_app_count": 12,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://oceanservice.noaa.gov/mobile/",
+          "platform": "Mobile Web",
+          "version_number": "",
+          "publish_date": "2011-07-13T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "",
+          "number_of_ratings": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "National Resource Directory",
+      "short_description": "Connects Wounded Warriors, Service Members, Veterans, and their families with resources.",
+      "long_description": "<p>The National Resource Directory (NRD) is a website for connecting Wounded Warriors, Service Members, Veterans, and their families with those who support them.</p><p>It provides access to services and resources at the national, state and local levels to support recovery, rehabilitation and community reintegration. Visitors can find information on a variety of topics including benefits &amp; compensation, education &amp; training, employment, family &amp; caregiver support, health, homeless assistance, housing, transportation &amp; travel and other services &amp; resources. For help on how to find resources on the site, visit the How to Use this Site section of the NRD.</p><p>The NRD is a partnership among the Departments of Defense, Labor and Veterans Affairs. The information contained within the NRD is from federal, state and local government agencies; Veterans service and benefit organizations; non-profit and community-based organizations; academic institutions and professional associations that provide assistance to Wounded Warriors and their families.</p>",
+      "icon_url": "",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 441,
+          "name": "Department of Labor (DOL)",
+          "info_url": "http://www.labor.gov",
+          "mobile_app_count": 6,
+          "social_media_count": 16,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1021,
+          "tag_text": "medical",
+          "tag_type": "category",
+          "social_media_count": 17,
+          "mobile_app_count": 37,
+          "gallery_count": 0
+        },
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 4005,
+          "tag_text": "health & fitness",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 42,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://m.nationalresourcedirectory.gov/",
+          "platform": "Mobile Web",
+          "version_number": "",
+          "publish_date": "2011-05-03T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "",
+          "number_of_ratings": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "National Weather Service",
+      "short_description": "Get current weather forecasts and warnings",
+      "long_description": "<p>The National Weather Service (NWS) provides weather, hydrologic, and climate forecasts and warnings for the United States, its territories, adjacent waters and ocean areas, for the protection of life and property and the enhancement of the national economy. NWS data and products form a national information database and infrastructure which can be used by other governmental agencies, the private sector, the public, and the global community.</p>",
+      "icon_url": "",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 2011,
+          "name": "National Oceanic and Atmospheric Administration (NOAA)",
+          "info_url": "http://www.noaa.gov/",
+          "mobile_app_count": 31,
+          "social_media_count": 217,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 401,
+          "tag_text": "education",
+          "tag_type": "category",
+          "social_media_count": 106,
+          "mobile_app_count": 84,
+          "gallery_count": 0
+        },
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://mobile.weather.gov/",
+          "platform": "Mobile Web",
+          "version_number": "",
+          "publish_date": "2011-09-02T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "",
+          "number_of_ratings": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "NCI @ NIH Summer Students Internship Program",
+      "short_description": "Allows students to view schedule for seminars, campus maps, shuttle schedules, and much more.",
+      "long_description": "<p>Summer programs at the National Cancer Institute (NCI) provide students with an opportunity to spend a summer working with NCI scientists and clinicians located on the NIH main campus in Bethesda, MD and off campus in the surrounding area in Rockville, MD and Frederick, MD. The National Cancer Institute (NCI) is one of 27 Institutes and Centers as part of the National Institutes of Health (NIH) and consists of almost 350 principal investigators and about 1100 postdoctoral fellows and clinical fellows. The NCI conducts and supports research, training, health information dissemination, and other programs with respect to the cause, diagnosis, prevention, and treatment of cancer, rehabilitation from cancer, and the continuing care of cancer patients and the families of cancer patients.</p><p>The NCI Summer Internship Program (NCI SIP) covers a minimum of eight weeks, with students generally arriving in May or June. The NCI and the NIH Office of Intramural Training and Education sponsor a wide range of summer activities including lectures offered under the NIH Summer Seminar Series, attend career/professional development workshops, and participate in the NIH Summer Research Poster Day.</p><p>This app allows students to view schedules and registration details for seminars, lectures, and workshop, view campus maps, shuttle schedules, cafeterias, and much more.</p><p>Learn more about NCI at http://www.cancer.gov</p>",
+      "icon_url": "http://a2.mzstatic.com/us/r30/Purple/v4/da/84/77/da847766-ab68-8cae-0c95-83e960f31285/mzl.ofhtgjdh.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 1991,
+          "name": "National Institutes of Health (NIH)",
+          "info_url": "http://www.nih.gov/",
+          "mobile_app_count": 16,
+          "social_media_count": 105,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 401,
+          "tag_text": "education",
+          "tag_type": "category",
+          "social_media_count": 106,
+          "mobile_app_count": 84,
+          "gallery_count": 0
+        },
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 2568,
+          "tag_text": "navigation",
+          "tag_type": "category",
+          "social_media_count": 10,
+          "mobile_app_count": 9,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "https://market.android.com/details?id=com.bluepanestudio.nci_2011",
+          "platform": "Android",
+          "version_number": "",
+          "publish_date": "2011-05-24T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "5",
+          "number_of_ratings": 2
+        },
+        {
+          "store_url": "http://itunes.apple.com/us/app/nci-nih-summer-internship/id431948152?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-05-24T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "3.5",
+          "number_of_ratings": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "NSA Career Links",
+      "short_description": "Find job opportunities, news and events at NSA.",
+      "long_description": "<p>Stay up-to-date on the latest news from the National Security Agency – free!</p><p>This app puts everything NSA – job opportunities, news, and events – in the palm of your hand.</p><p>NSA carries out some of the Nation’s most important and sensitive intelligence activities. We intercept, decrypt, and analyze foreign adversaries’ communications. We protect U.S. Government information. In short, we preserve information security for America and its allies.</p><p>To help us accomplish our mission, we’re looking for the best and the brightest to join our team. If you think you’re up to the challenge and want to learn more, NSA Career Links will keep you in the know with:</p><p>* NSA jobs<br />* NSA career events<br />* NSA news<br />* NSA videos and employee testimonials</p>",
+      "icon_url": "http://a1.mzstatic.com/us/r30/Purple4/v4/9e/1d/a8/9e1da828-0cea-9b4c-f52a-d01e438d6519/mzl.pbnttavb.175x175-75.jpg",
+      "language": "English",
+      "agencies": [],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 1667,
+          "tag_text": "news",
+          "tag_type": "category",
+          "social_media_count": 192,
+          "mobile_app_count": 15,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/us/app/nsa-career-links/id397798847?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-02-08T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "3.5",
+          "number_of_ratings": 9
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "OSHA Heat Index Safety Tool",
+      "short_description": "Get the heat index for your work site and precautions to prevent heat illness.",
+      "long_description": "<p>Get the heat index for your work site and precautions to prevent heat illness.</p><p>When you’re working in the heat, safety comes first. With the OSHA Heat Safety Tool, you have vital safety information available whenever and wherever you need it — right on your mobile phone.</p><p>The App allows workers and supervisors to calculate the heat index for their worksite, and, based on the heat index, displays a risk level to outdoor workers. Then, with a simple tap, you can get reminders about the protective measures that should be taken at that risk level to protect workers from heat-related illness—reminders about drinking enough fluids, scheduling rest breaks, planning for and knowing what to do in an emergency, adjusting work operations, gradually building up the workload for new workers, training on heat illness signs and symptoms, and monitoring each other for signs and symptoms of heat-related illness.<br />Stay informed and safe in the heat, check your risk level.</p><p>For more information about safety while working in the heat, see <a href=\"http://osha.gov/SLTC/heatillness/index.html\">OSHA’s heat illness webpage</a>, including new online guidance about using the heat index to protect workers.</p>",
+      "icon_url": "https://lh3.ggpht.com/cnghWjad_jRkoNridSL43Ju4hPrK8r4RvU4qpTSuOXfV6PSorr9DRY5xTrg3HpQuB4I=w300",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 441,
+          "name": "Department of Labor (DOL)",
+          "info_url": "http://www.labor.gov",
+          "mobile_app_count": 6,
+          "social_media_count": 16,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1021,
+          "tag_text": "medical",
+          "tag_type": "category",
+          "social_media_count": 17,
+          "mobile_app_count": 37,
+          "gallery_count": 0
+        },
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 2051,
+          "tag_text": "utilities",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 61,
+          "gallery_count": 0
+        },
+        {
+          "id": 4005,
+          "tag_text": "health & fitness",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 42,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "https://play.google.com/store/apps/details?id=com.erg.heatindex",
+          "platform": "Android",
+          "version_number": "",
+          "publish_date": "2011-08-11T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "3.6",
+          "number_of_ratings": 77
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Per Diem for Continental U.S. (Federal)",
+      "short_description": "Look up Federal government per diem rates by city/state and ZIP code.",
+      "long_description": "<p>This app allows travelers to look up Federal government per diem rates by city/state and ZIP code in locations throughout the United States and its territories. Per diem is the daily allowance for lodging (excluding taxes), meals and incidental expenses.</p><p>These rates are established by the General Services Administration for destinations in the lower 48 contiguous United States, and by the U.S. Department of Defense for locations in Alaska, Hawaii and the U.S. territories. The U.S. Department of State sets rates for foreign travel locations.</p>",
+      "icon_url": "http://a3.mzstatic.com/us/r30/Purple/v4/fc/ee/e8/fceee8dc-a60d-bb05-d6f2-6dbf802bcb72/mzl.vqjadhog.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 351,
+          "name": "General Services Administration (GSA)",
+          "info_url": "http://www.gsa.gov",
+          "mobile_app_count": 6,
+          "social_media_count": 120,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 1521,
+          "tag_text": "travel",
+          "tag_type": "category",
+          "social_media_count": 5,
+          "mobile_app_count": 29,
+          "gallery_count": 0
+        },
+        {
+          "id": 2410,
+          "tag_text": "finance",
+          "tag_type": "category",
+          "social_media_count": 2,
+          "mobile_app_count": 10,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "https://play.google.com/store/apps/details?id=gov.gsa.android.perdiem&hl=en",
+          "platform": "Android",
+          "version_number": "",
+          "publish_date": "2011-08-04T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "3.5",
+          "number_of_ratings": 30
+        },
+        {
+          "store_url": "http://itunes.apple.com/us/app/per-diem-for-continental-u.s/id438535861?ls=1&mt=8#,",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-08-04T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "3",
+          "number_of_ratings": 38
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "PTSD Coach",
+      "short_description": "Learn more about PTSD and find professional care, support and tools to help manage the stresses of daily life with PTSD.",
+      "long_description": "<p>PTSD Coach was designed for Veterans and military Service Members who have, or may have, Posttraumatic Stress Disorder (PTSD). This app provides users with education about PTSD, information about professional care, a self-assessment for PTSD, opportunities to find support, and tools that can help users manage the stresses of daily life with PTSD. Tools range from relaxation skills and positive self-talk to anger management and other common self-help strategies. Users can customize tools based on their preferences and can integrate their own contacts, photos, and music. This app can be used by people who are in treatment as well as those who are not. PTSD Coach was created by VA’s National Center for PTSD and DoD’s National Center for Telehealth &amp; Technology.</p>",
+      "icon_url": "http://a2.mzstatic.com/us/r30/Purple/ca/d9/bc/mzl.lbomzxnq.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 811,
+          "name": "Department of Veterans Affairs (VA)",
+          "info_url": "http://www.va.gov",
+          "mobile_app_count": 13,
+          "social_media_count": 250,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 401,
+          "tag_text": "education",
+          "tag_type": "category",
+          "social_media_count": 106,
+          "mobile_app_count": 84,
+          "gallery_count": 0
+        },
+        {
+          "id": 1021,
+          "tag_text": "medical",
+          "tag_type": "category",
+          "social_media_count": 17,
+          "mobile_app_count": 37,
+          "gallery_count": 0
+        },
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 2051,
+          "tag_text": "utilities",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 61,
+          "gallery_count": 0
+        },
+        {
+          "id": 4005,
+          "tag_text": "health & fitness",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 42,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "https://play.google.com/store/apps/details?id=gov.va.ptsd.ptsdcoach",
+          "platform": "Android",
+          "version_number": "",
+          "publish_date": "2011-05-03T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "3.9",
+          "number_of_ratings": 172
+        },
+        {
+          "store_url": "http://itunes.apple.com/us/app/ptsd-coach/id430646302?mt=8#",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-05-03T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4.5",
+          "number_of_ratings": 68
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Quit Guide",
+      "short_description": "Find information, help and support to quit smoking.",
+      "long_description": "<p>QuitGuide is a free application that was developed by MMG, Inc. for the Tobacco Control Research Branch of the National Cancer Institute (NCI). This guide was written by tobacco control professionals and cessation counselors with the help of ex-smokers and experts. It can help you prepare to quit smoking and support you in the days and weeks after you quit. It also describes what problems you can expect when you quit smoking. Being prepared can help you through the hard times.</p><p>You can easily access this interactive guide to help keep you smokefree. The app allows you to search for content using keywords, save specific pages as favorites, and share information you are reading via Facebook, Twitter, and e-mail.</p><p>For more details about the app, please visit http://smokefree.gov/apps.</p>",
+      "icon_url": "http://a2.mzstatic.com/us/r30/Purple/v4/fb/7e/4e/fb7e4e40-2e28-356d-d090-b7f7fc0a2f0b/mzl.bwgqdhzy.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 1991,
+          "name": "National Institutes of Health (NIH)",
+          "info_url": "http://www.nih.gov/",
+          "mobile_app_count": 16,
+          "social_media_count": 105,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1021,
+          "tag_text": "medical",
+          "tag_type": "category",
+          "social_media_count": 17,
+          "mobile_app_count": 37,
+          "gallery_count": 0
+        },
+        {
+          "id": 4005,
+          "tag_text": "health & fitness",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 42,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/app/quitguide/id411766556?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-04-20T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "2.5",
+          "number_of_ratings": 11
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Recovery.gov",
+      "short_description": "See where and how recovery funds are being spent.",
+      "long_description": "<p>The Recovery.gov Mobile Application provides easy access to the projects funded by the American Recovery and Reinvestment Act of 2009. With the application, you can see where and how Recovery funds are being spent. To see projects across the country or in your own neighborhood, simply enter a city, state. In addition, you can report suspected fraud, waste, or abuse related to Recovery funding. </p>",
+      "icon_url": "",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 2620,
+          "name": "Recovery Accountability and Transparency Board",
+          "info_url": null,
+          "mobile_app_count": 1,
+          "social_media_count": 0,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/us/app/recovery-gov/id422387071?mt=8&ls=1",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-04-20T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4.5",
+          "number_of_ratings": 11
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Release Mako",
+      "short_description": "You can now report your live releases of shortfin mako sharks while still on the water.",
+      "long_description": "With the Release Mako Android app you can now report your live releases of shortfin mako sharks from Android mobile devices while still on the water.</p><p>The app uses a device’s built-in GPS, when available, to fill in exact location coordinates on the shortfin mako live release data form. The catch and release reports submitted via email allow fishermen to put their mako on the Shortfin Mako Shark Live Release Interactive Web Map at http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/Map/index.htm.</p><p>The submission form is easy to fill out and operates like the online submission form. Touching the latitude and longitude boxes provides an location when GPS is available. The app also includes information about shortfin mako stock status, fishing regulations, FAQs, and safe handling and release guidelines.</p><p>By submitting this live release information through the app, and putting their mako on the map, fishermen will be able to see how they are making a difference in the conservation of shortfin mako sharks and encourage others to do the same.</p><p>Overfishing is occurring on the North Atlanitc shortfin mako shark population. By releasing shortfin mako sharks that are unintentionally caught or caught for sport, U.S. fishermen will be leaders in encouraging fishermen from other nations to conserve this shark species. Get the Release Mako app and become a leader.</p><p>Learn more about Atlantic Shortfin Mako Sharks at http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/index.htm</p></div>",
+      "icon_url": "http://a3.mzstatic.com/us/r30/Purple2/v4/18/7f/28/187f28c2-9781-8bec-a404-1b80354d8225/mzl.cqugojts.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 2011,
+          "name": "National Oceanic and Atmospheric Administration (NOAA)",
+          "info_url": "http://www.noaa.gov/",
+          "mobile_app_count": 31,
+          "social_media_count": 217,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 2051,
+          "tag_text": "utilities",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 61,
+          "gallery_count": 0
+        },
+        {
+          "id": 4006,
+          "tag_text": "sports",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 1,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "https://play.google.com/store/apps/details?id=appinventor.ai_shortfinmako.ReleaseMako",
+          "platform": "Android",
+          "version_number": "",
+          "publish_date": "2011-07-13T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4.2",
+          "number_of_ratings": 5
+        },
+        {
+          "store_url": "https://itunes.apple.com/us/app/release-mako/id655252697?ls=1&mt=8",
+          "platform": "iOS",
+          "version_number": "1.0",
+          "publish_date": "2013-06-11T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "",
+          "number_of_ratings": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Satellite Insight",
+      "short_description": "Check out this fun game about the new GOES-R weather satellite.",
+      "long_description": "<p>“Satellite Insight” was created for the GOES-R mission (Geostationary Operational Environmental Satellite, R series), under development at Goddard Space Flight Center as a joint NASA and NOAA effort. Educational as well as entertaining, the game challenges players to keep up with the stream of data from GOES-R’s six main instruments.</p><p>Colored blocks falling into columns on a grid represent small pieces of data. To save lives and protect expensive instruments, the GOES-R weather satellite must not lose any data. Users bundle like data types together by tapping to select three or more contiguous same-colored blocks, then tap on the GOES-R satellite to store the data before the grid overflows. Data blocks fall slowly at first, but arrive faster as the game continues. Each speed-up also brings a power-up tool players can use at any time to help clear the grid. They keep the game going as long as they can and try to beat their best time.</p><p>The game builds awareness of this important technical resource that most people never hear about. The game instructions also include basic information about GOES-R and geostationary orbits, as well as links to The Space Place, the NASA Science Mission Directorate’s website for elementary school kids; and SciJinks, the website about weather and Earth science for middle-school kids jointly sponsored by NASA and NOAA.</p>",
+      "icon_url": "http://a2.mzstatic.com/us/r30/Purple/v4/d7/61/29/d7612953-b6cd-1d2d-4790-5c65e345702f/mzl.yxuorejr.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 471,
+          "name": "National Aeronautics and Space Administration (NASA)",
+          "info_url": "http://www.nasa.gov",
+          "mobile_app_count": 10,
+          "social_media_count": 595,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 3586,
+          "tag_text": "games",
+          "tag_type": "category",
+          "social_media_count": 4,
+          "mobile_app_count": 8,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/us/app/satellite-insight/id463588902?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-12-15T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4.5",
+          "number_of_ratings": 30
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "SBA",
+      "short_description": "Get free, personal, one-on-one help with starting and growing your business.",
+      "long_description": "<p>Starting a new business or need help taking your business to the next level? Use the SBA app to find Small Business Administration-affiliated advisers near you and get free, personal, one-on-one help with starting and growing your business. You can also use the app to calculate your starting costs so you know what it is going to take to get your business off the ground.  Additionally, users have direct access to official SBA social media accounts on Twitter and YouTube to get the latest news and video resources.  </p>",
+      "icon_url": "http://a2.mzstatic.com/us/r30/Purple/f1/5c/94/mzl.qgbzlnqf.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 741,
+          "name": "Small Business Administration (SBA)",
+          "info_url": "http://www.sba.gov",
+          "mobile_app_count": 2,
+          "social_media_count": 31,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 71,
+          "tag_text": "business",
+          "tag_type": "category",
+          "social_media_count": 59,
+          "mobile_app_count": 7,
+          "gallery_count": 0
+        },
+        {
+          "id": 2051,
+          "tag_text": "utilities",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 61,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/us/app/sba/id403706424?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-06-02T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4",
+          "number_of_ratings": 21
+        },
+        {
+          "store_url": "https://es.sba.gov/",
+          "platform": "Android",
+          "version_number": "",
+          "publish_date": "2013-05-20T00:00:00.000Z",
+          "screenshot": "",
+          "device": "Web",
+          "average_rating": "",
+          "number_of_ratings": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Science360 for iPad",
+      "short_description": "View amazing science and engineering images and video from around the globe and read breaking news.",
+      "long_description": "<p>The National Science Foundation’s (NSF) Science360 for iPad provides easy access to engaging science and engineering images and video from around the globe and a news feed featuring breaking news from NSF-funded institutions. Content is either produced by NSF or gathered from scientists, colleges and universities, and NSF science and engineering centers.</p><p>Features:</p><p>- Spectacular images from NSF-funded institutions available in high resolution for download to your iPad<br />- Fun and engaging streaming video (WiFi or 3G connection required) on a wide range of topics<br />- Hundreds of images and videos to experience, with new content added weekly<br />- Share images and videos on Facebook and Twitter or via email<br />- Keep abreast of breaking stories in scientific discovery as they happen with the in-app news feed<br />- Pan through content in the unique 360 view or find content via keyword with a simple two finger touch<br />- With a single touch, save favorite images and video within the app so that they can easily be found again</p>",
+      "icon_url": "http://a5.mzstatic.com/us/r30/Purple/v4/ec/b5/12/ecb51250-19ae-b80a-b592-fb5fb86848e7/mzl.algwpxoh.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 561,
+          "name": "National Science Foundation (NSF)",
+          "info_url": "http://www.nsf.gov",
+          "mobile_app_count": 4,
+          "social_media_count": 22,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 401,
+          "tag_text": "education",
+          "tag_type": "category",
+          "social_media_count": 106,
+          "mobile_app_count": 84,
+          "gallery_count": 0
+        },
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/us/app/science360-for-ipad/id439928181?mt=8#",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-07-26T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4",
+          "number_of_ratings": 755
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Science360 Radio",
+      "short_description": "24/7 audio programming on a variety of science topics.",
+      "long_description": "<p>Science360 Radio is a part of the National Science Foundation's Science360 network. It focuses on the latest developments in scientific research, providing a variety of science topics with continuous audio programming 24 hours a day, seven days a week, from contributors including mainstream media outlets, colleges and universities, and more.</p>",
+      "icon_url": "http://a2.mzstatic.com/us/r30/Purple/v4/f1/26/05/f126059b-1125-1586-a79c-e264aeada63d/mzl.crufcswy.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 561,
+          "name": "National Science Foundation (NSF)",
+          "info_url": "http://www.nsf.gov",
+          "mobile_app_count": 4,
+          "social_media_count": 22,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 401,
+          "tag_text": "education",
+          "tag_type": "category",
+          "social_media_count": 106,
+          "mobile_app_count": 84,
+          "gallery_count": 0
+        },
+        {
+          "id": 1667,
+          "tag_text": "news",
+          "tag_type": "category",
+          "social_media_count": 192,
+          "mobile_app_count": 15,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/app/science-radio/id428848787?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-04-20T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "3.5",
+          "number_of_ratings": 38
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Smart Traveler",
+      "short_description": "Access official country information, travel alerts, travel warnings, maps, U.S. embassy locations and more.",
+      "long_description": "<p>Smart Traveler, the official State Department app for U.S. travelers, invites you to see the world with easy access to frequently updated official country information, travel alerts, travel warnings, maps, U.S. embassy locations, and more.</p><p>With Smart Traveler, you can create personal itineraries, add notes, and organize your trips.</p><p>Smart Traveler also provides access to the State Department’s Smart Traveler Enrollment Program (STEP). Free STEP enrollment enables the State Department to better assist you in emergencies such as natural disasters, unrest in foreign countries, or lost/stolen passports overseas. During your travels, STEP can help your family and friends reach you in an emergency.</p><p>Smart Traveler also provides quick access to the Department’s Consular Affairs Facebook and Twitter pages. And for a bit of fun, you can shake your iPhone to get information on a random country!</p>",
+      "icon_url": "http://a4.mzstatic.com/us/r30/Purple6/v4/53/1b/50/531b5083-0e8c-74a0-6102-151f99d31f9f/mzl.egmkkxdl.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 761,
+          "name": "Department of State",
+          "info_url": "http://www.state.gov",
+          "mobile_app_count": 5,
+          "social_media_count": 1987,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1521,
+          "tag_text": "travel",
+          "tag_type": "category",
+          "social_media_count": 5,
+          "mobile_app_count": 29,
+          "gallery_count": 0
+        },
+        {
+          "id": 1667,
+          "tag_text": "news",
+          "tag_type": "category",
+          "social_media_count": 192,
+          "mobile_app_count": 15,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "https://play.google.com/store/apps/details?id=gov.state.apps.smartravel",
+          "platform": "Android",
+          "version_number": "",
+          "publish_date": "2011-06-29T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "3.7",
+          "number_of_ratings": 22
+        },
+        {
+          "store_url": "http://itunes.apple.com/us/app/smart-traveler/id442693988?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-06-29T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4",
+          "number_of_ratings": 71
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Today's Doc",
+      "short_description": "View fascinating documents and photographs from throughout history.",
+      "long_description": "<p>This new mobile app is an interactive gallery that allows you to explore the holdings of the US National Archives through a collection of 365 fascinating documents and photographs from throughout history. Learn what significant event happened on your birthday, search the documents by keyword, or browse the collection at your leisure.</p><p>Zoom in on the high resolution images to get a closer look at the featured documents and photographs, use the calendar feature to select a specific date, or select “Surprise Me” to show a document at random. Want to learn more? Tap the “info” icon to read background information on the document and link to related websites. You can even share documents via email, Facebook and Twitter, and add documents to your list of favorites by tapping the “star” icon.</p>",
+      "icon_url": "http://a5.mzstatic.com/us/r30/Purple/bf/55/f3/mzi.vqonceiv.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 481,
+          "name": "National Archives and Records Administration (NARA)",
+          "info_url": "http://www.archives.gov",
+          "mobile_app_count": 5,
+          "social_media_count": 107,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 1667,
+          "tag_text": "news",
+          "tag_type": "category",
+          "social_media_count": 192,
+          "mobile_app_count": 15,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/us/app/todays-document/id412969819?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-01-13T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4",
+          "number_of_ratings": 63
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "TVA Lake Info",
+      "short_description": "Get current info on TVA lakes and dams.",
+      "long_description": "<p>TVA Lake Info is an easy-to-use resource for operating on and around lakes and dams in the Tennessee Valley Authority region.</p><ul><li>Day-to-day lake level data</li><li>Daily schedules of water releases at dams</li><li>Monthly schedules of recreational water releases</li><li>Detailed guides of how TVA manages individual lake levels</li><li>Recreation information and history of TVA lakes</li><li>Maps of lakes</li><li>Information on navigating locks</li><li>Navigation aids for boaters</li></ul></div>",
+      "icon_url": "http://a3.mzstatic.com/us/r30/Purple/v4/70/60/5d/70605de1-3534-cdde-8738-28ec3d98262a/mzl.ptfmgqtn.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 771,
+          "name": "Tennessee Valley Authority (TVA)",
+          "info_url": "http://www.tva.gov",
+          "mobile_app_count": 1,
+          "social_media_count": 11,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "https://play.google.com/store/apps/details?id=com.tva.lakeinfo",
+          "platform": "Android",
+          "version_number": "",
+          "publish_date": "2011-09-27T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4.4",
+          "number_of_ratings": 56
+        },
+        {
+          "store_url": "http://www.tva.com/river/mobile_app.htm",
+          "platform": "Mobile Web",
+          "version_number": "",
+          "publish_date": "2011-09-27T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "",
+          "number_of_ratings": null
+        },
+        {
+          "store_url": "http://itunes.apple.com/us/app/tva-lake-info/id440331543/",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-09-27T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4.5",
+          "number_of_ratings": 31
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "U.S. Army News and Information",
+      "short_description": "Official news and information from the US Army now available on your iPhone.",
+      "long_description": "<p>The Official Homepage of the United States Army now on the iPhone! All of the news from Army.mil can now be carried with you. Read the latest articles, view the newest pictures, and watch the latest videos direct from your iPhone. Save your favorite stories to the phone for offline viewing. Share news with your friends via email, Twitter and Facebook.</p>",
+      "icon_url": "http://a3.mzstatic.com/us/r30/Purple/v4/06/d2/2b/06d22b8e-bc09-bbe8-1913-ea654ad88a89/mzl.pnhivugg.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 151,
+          "name": "Department of Defense (DOD)",
+          "info_url": "http://www.defense.gov",
+          "mobile_app_count": 14,
+          "social_media_count": 325,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 2051,
+          "tag_text": "utilities",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 61,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/us/app/us-army-news-information/id342689843?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2010-08-21T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4",
+          "number_of_ratings": 4149
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "9/11 Memorial",
+      "short_description": "View the official 9/11 Memorial app.",
+      "long_description": "<p><span class=\"tx\">The National September 11 Memorial and Museum created the official 9/11 Memorial application as a guide to understanding 9/11 through the eyes of those who witnessed the events. Given the sensitivity surrounding the events of 9/11, viewer discretion is advised. The app has three features:</span></p><p><strong>Tour</strong></p><p>A seven-stop walking tour of the area around the World Trade Center, accompanied by audio and photo narration. The events of the day and its aftermath are told by first responders, rescue workers, volunteers, and those who lived and worked in Lower Manhattan on 9/11. While the walking tour takes place in Lower Manhattan, the tour content is accessible to users anywhere.</p><p><strong>Explore</strong></p><p>View images related to the events of 9/11 and their aftermath taken nearby wherever you are. Photos may be viewed in Augmented Reality-technology mode which overlays images on the camera view. All photos were contributed to the museum by survivors and witnesses through 911history.org.</p><p><strong>Timeline</strong></p><p>An interactive timeline of the day’s events and aftermath. Includes links to witness photos taken during these time blocks.</p><p>The app can operate in an offline mode for non-U.S. visitors who have disabled data roaming. In this mode, all tour content is still accessible. The app includes a map of free WiFi hotspots near the tour route for downloading “Explore” photos from the vicinity.</p><p>The app is rated 9+ due to infrequent/mild realistic violence or infrequent/mild mature/suggestive themes.</p><p>For more information on the 9/11 Memorial, please visit http://www.911memorial.org/</p>",
+      "icon_url": "http://a5.mzstatic.com/us/r30/Purple/ca/b8/50/mzl.hczqfhud.175x175-75.jpg",
+      "language": "English",
+      "agencies": [],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://itunes.apple.com/us/app/explore-9-11/id387986451?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2011-09-10T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4",
+          "number_of_ratings": 3278
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "U.S. Department of State Careers",
+      "short_description": "Learn more about careers with the U.S. Dept. of State.",
+      "long_description": "<div xmlns:o=\"urn:www.microsoft.com/office\" xmlns:st1=\"urn:www.microsoft.com/smarttags\" xmlns:st2=\"urn:www.microsoft.com/smarttags2\" xmlns:w=\"urn:www.microsoft.com/word\" xmlns:x=\"urn:www.microsoft.com/excel\"><p>The mobile version of careers.state.gov provides easy access for those interested in learning about U.S. Department of State careers. The site provides three key sections:</p><ul><li>Learn about careers</li><li>Register to receive updates</li><li>Participate in career-focused forums</li></ul></div>",
+      "icon_url": "",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 761,
+          "name": "Department of State",
+          "info_url": "http://www.state.gov",
+          "mobile_app_count": 5,
+          "social_media_count": 1987,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://m.careers.state.gov/",
+          "platform": "Mobile Web",
+          "version_number": "",
+          "publish_date": "2011-09-28T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "",
+          "number_of_ratings": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "U.S. Postal Service Tools",
+      "short_description": "Everything you need to stay connected when you're on the go.",
+      "long_description": "<p>USPS Mobile gives you instant, on-the-go access to the most popular tools on USPS.com. Track a package, find Post Offices and collection boxes, and look up ZIP Codes anywhere you go.</p>",
+      "icon_url": "http://a1.mzstatic.com/us/r30/Purple6/v4/5e/15/41/5e15411d-f2ec-6abd-ca44-8d4d03bc14f9/mzl.qbnjdwdu.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 701,
+          "name": "United States Postal Service (USPS)",
+          "info_url": "http://www.usps.com",
+          "mobile_app_count": 1,
+          "social_media_count": 11,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 71,
+          "tag_text": "business",
+          "tag_type": "category",
+          "social_media_count": 59,
+          "mobile_app_count": 7,
+          "gallery_count": 0
+        },
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        },
+        {
+          "id": 2051,
+          "tag_text": "utilities",
+          "tag_type": "category",
+          "social_media_count": 1,
+          "mobile_app_count": 61,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "https://play.google.com/store/apps/details?id=com.usps",
+          "platform": "Android",
+          "version_number": "",
+          "publish_date": "2010-05-18T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "4",
+          "number_of_ratings": 2668
+        },
+        {
+          "store_url": "http://itunes.apple.com/us/app/usps-mobile/id339597578?mt=8",
+          "platform": "iOS",
+          "version_number": "",
+          "publish_date": "2010-05-18T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "3.5",
+          "number_of_ratings": 13006
+        },
+        {
+          "store_url": "http://m.usps.com",
+          "platform": "Mobile Web",
+          "version_number": "",
+          "publish_date": "2010-05-18T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "",
+          "number_of_ratings": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "USA.gov",
+      "short_description": "Federal, state, and local government in the palm of your hand.",
+      "long_description": "<p>USA.gov is government made easy. USA.gov mobile site allows you to search federal, state, and local government websites and contact your government by phone or email.</p>",
+      "icon_url": "http://a3.mzstatic.com/us/r30/Purple4/v4/09/3d/2a/093d2a3e-5739-0b74-012a-b0ec0ffbbb6c/mzl.jmlecrlh.175x175-75.jpg",
+      "language": "English",
+      "agencies": [
+        {
+          "id": 351,
+          "name": "General Services Administration (GSA)",
+          "info_url": "http://www.gsa.gov",
+          "mobile_app_count": 6,
+          "social_media_count": 120,
+          "gallery_count": 0
+        }
+      ],
+      "tags": [
+        {
+          "id": 1271,
+          "tag_text": "reference",
+          "tag_type": "category",
+          "social_media_count": 0,
+          "mobile_app_count": 180,
+          "gallery_count": 0
+        }
+      ],
+      "versions": [
+        {
+          "store_url": "http://m.usa.gov",
+          "platform": "Mobile Web",
+          "version_number": "",
+          "publish_date": "2010-03-31T00:00:00.000Z",
+          "screenshot": "",
+          "device": "App - Phone/Tablet",
+          "average_rating": "",
+          "number_of_ratings": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+AIDSinfo|Glosario en español de terminología sobre el VIH y el SIDA.|&education&health&research
+National Hurricane Center|Access critical hurricane advisories.|&reference&weather&news
+National Ocean Service|Find news, audio, video, Ocean Facts, and more straight to your smartphone.|&education&reference&weather
+National Resource Directory|Connects Wounded Warriors, Service Members, Veterans, and their families with resources.|&medical&reference&health & fitness
+National Weather Service|Get current weather forecasts and warnings|&education&reference
+NCI @ NIH Summer Students Internship Program|Allows students to view schedule for seminars, campus maps, shuttle schedules, and much more.|&education&reference&navigation
+NSA Career Links|Find job opportunities, news and events at NSA.|&reference&news
+OSHA Heat Index Safety Tool|Get the heat index for your work site and precautions to prevent heat illness.|&medical&reference&utilities&health & fitness
+Per Diem for Continental U.S. (Federal)|Look up Federal government per diem rates by city/state and ZIP code.|&reference&travel&finance
+PTSD Coach|Learn more about PTSD and find professional care, support and tools to help manage the stresses of daily life with PTSD.|&education&medical&reference&utilities&health & fitness
+Quit Guide|Find information, help and support to quit smoking.|&medical&health & fitness
+Recovery.gov|See where and how recovery funds are being spent.|&reference
+Release Mako|You can now report your live releases of shortfin mako sharks while still on the water.|&utilities&sports
+Satellite Insight|Check out this fun game about the new GOES-R weather satellite.|&reference&games
+SBA|Get free, personal, one-on-one help with starting and growing your business.|&business&utilities
+Science360 for iPad|View amazing science and engineering images and video from around the globe and read breaking news.|&education&reference
+Science360 Radio|24/7 audio programming on a variety of science topics.|&education&news
+Smart Traveler|Access official country information, travel alerts, travel warnings, maps, U.S. embassy locations and more.|&travel&news
+Today's Doc|View fascinating documents and photographs from throughout history.|&reference&news
+TVA Lake Info|Get current info on TVA lakes and dams.|&reference
+U.S. Army News and Information|Official news and information from the US Army now available on your iPhone.|&utilities
+9/11 Memorial|View the official 9/11 Memorial app.|&reference
+U.S. Department of State Careers|Learn more about careers with the U.S. Dept. of State.|&reference
+U.S. Postal Service Tools|Everything you need to stay connected when you're on the go.|&business&reference&utilities
+USA.gov|Federal, state, and local government in the palm of your hand.|&reference
